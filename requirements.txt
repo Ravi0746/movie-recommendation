@@ -2,6 +2,4 @@ streamlit
 pickle 
 pandas as pd 
 streamlit_option_menu
-re  
-os
-requests
+
