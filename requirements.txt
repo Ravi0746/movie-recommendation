@@ -1,7 +1,7 @@
-import streamlit as st 
-import pickle 
-import pandas as pd 
-from streamlit_option_menu import option_menu
-import re  
-import os
-import requests
+streamlit  
+pickle 
+pandas as pd 
+streamlit_option_menu
+re  
+os
+requests
